@@ -1,5 +1,5 @@
 # Handwriting-Scanner
-Software that is able to convert handwritten text to real text using custom-built neural network
+Convert handwritten text to real text using custom-built neural network \
 See [portfolio](https://casperwong.weebly.com/programming.html) for more details
 
 ### How to run
